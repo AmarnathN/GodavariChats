@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.staging
+
+#public and private keys
+private.key
+public.key
